@@ -1,0 +1,51 @@
+D:\python_file\molfps>python clusfps.py --sdf=13.sdf --out=1.sdf --algorithm=m --nc
+lusts=4
+fingerprint type: MACCS Keys
+cluster algorithm: Murtagh
+Murtagh method: Wards
+Murtagh cluster number set: 4
+
+sdf reading...
+fingerprint calculating...
+clustering...
+done, output to 1.sdf
+cluster1: [3, 6, 2, 10, 11, 7, 8, 9]
+cluster2: [4, 5]
+cluster3: [1, 12]
+cluster4: [0]
+
+D:\python_file\molfps>python clusfps.py --sdf=13.sdf --out=1.sdf --algorithm=b --cu
+toff=0.4
+fingerprint type: MACCS Keys
+cluster algorithm: Butina
+cutoff(distThresh) : 0.4
+
+sdf reading...
+fingerprint calculating...
+clustering...
+done, output to 1.sdf
+cluster1: (11, 2, 3, 4, 5, 6, 7, 8, 10)
+cluster2: (12, 1)
+cluster3: (9,)
+cluster4: (0,)
+
+D:\python_file\molfps>python clusfps.py --sdf=13.sdf --out=1.sdf --algorithm=b --cu
+toff=0.6 --fp=mo
+fingerprint type: Morgan Fingerprints
+radius: 2
+cluster algorithm: Butina
+cutoff(distThresh) : 0.6
+
+sdf reading...
+fingerprint calculating...
+clustering...
+done, output to 1.sdf
+cluster1: (11, 10)
+cluster2: (8, 7)
+cluster3: (5, 4)
+cluster4: (1, 0)
+cluster5: (12,)
+cluster6: (9,)
+cluster7: (6,)
+cluster8: (3,)
+cluster9: (2,)

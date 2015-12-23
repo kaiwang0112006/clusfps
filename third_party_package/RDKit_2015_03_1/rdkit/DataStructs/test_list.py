@@ -1,0 +1,13 @@
+tests=[
+  ("python","UnitTestBitVect.py",{}),
+  ("python","UnitTestcBitVect.py",{}),
+  ("python","UnitTestcBitVect2.py",{}),
+  ("python","UnitTestBitEnsemble.py",{}),
+  ("python","UnitTestTopNContainer.py",{}),
+  ("python","BitUtils.py",{}),
+  ("python","VectCollection.py",{}),
+  ("python","LazySignature.py",{}),
+  ("python","SparseIntVect.py",{}),
+  ]
+longTests=[
+  ]
