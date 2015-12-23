@@ -79,7 +79,7 @@ X4099_5048780
 4
 
 >  <isCentroid>  (1) 
-true
+flase
 
 $$$$
 Clc1ccc([N+](=O)[O-])cc1CN(C(=O)C1CCN(CC1)C(=O)c1c2c(ccc1)cccc2)C
@@ -164,7 +164,7 @@ X4099_5125546
 4
 
 >  <isCentroid>  (2) 
-flase
+true
 
 $$$$
 S=C(NC(=O)c1c(noc1C)-c1ccccc1)N1CCN(CC1)c1cc2N(C=C(C(O)=O)C(=O)c2cc1F)CC
@@ -260,10 +260,10 @@ M  END
 X4436_4169399
 
 >  <class>  (3) 
-4
+9
 
 >  <isCentroid>  (3) 
-flase
+true
 
 $$$$
 s1cc2c(CCCC2)c1C(=O)N1CCc2c(C1)cnc(C)c2CNC(=O)C1=NNC(=O)C=C1
@@ -345,10 +345,10 @@ M  END
 X4436_3108269
 
 >  <class>  (4) 
-5
+8
 
 >  <isCentroid>  (4) 
-flase
+true
 
 $$$$
 S(CCN(C)C)c1n2c(nn1)C1=C(N=C2c2ccccc2)N(C)C(=O)N(C)C1=O
@@ -421,10 +421,10 @@ M  END
 X6857_5825607
 
 >  <class>  (5) 
-2
+3
 
 >  <isCentroid>  (5) 
-true
+flase
 
 $$$$
 Clc1ccccc1C=1n2c(nnc2SCCN(C)C)C2=C(N=1)N(C)C(=O)N(C)C2=O
@@ -588,10 +588,10 @@ M  END
 X4436_3211892
 
 >  <class>  (7) 
-4
+7
 
 >  <isCentroid>  (7) 
-flase
+true
 
 $$$$
 OC=1N(C)C(=O)N=C(N2CC(CCC2)Cc2ccccc2)C=1Cc1ccc(cc1)C(C)(C)C
@@ -672,10 +672,10 @@ M  END
 x6972_558881
 
 >  <class>  (8) 
-1
+2
 
 >  <isCentroid>  (8) 
-true
+flase
 
 $$$$
 OC=1N(C)C(=O)N=C(N2CCc3c(C2)cccc3)C=1Cc1ccc(cc1)C
@@ -744,10 +744,10 @@ M  END
 x6972_502046
 
 >  <class>  (9) 
-1
+2
 
 >  <isCentroid>  (9) 
-flase
+true
 
 $$$$
 ClC=1C=NC2=NC3C(C=C2C=1)CN(CC3)Cc1ccc(cc1)C(C)(C)C
@@ -814,10 +814,10 @@ M  END
 x6972_5926686
 
 >  <class>  (10) 
-4
+6
 
 >  <isCentroid>  (10) 
-flase
+true
 
 $$$$
 Clc1cc(ccc1)C1=CC2=C(N(CC3CC3)C1=O)CCN(C2)C(=O)c1nc(nc(c1)C)N
@@ -897,10 +897,10 @@ M  END
 X4436_3163826
 
 >  <class>  (11) 
-5
+1
 
 >  <isCentroid>  (11) 
-true
+flase
 
 $$$$
 Fc1ccccc1CC1=CC2=C(N(C)C1=O)CCN(C2)C(=O)c1nc(nc(c1)C)N
@@ -975,10 +975,10 @@ M  END
 X4436_3078688
 
 >  <class>  (12) 
-5
+1
 
 >  <isCentroid>  (12) 
-flase
+true
 
 $$$$
 O=C1N2C([C@@H]3C[C@@H]([C@H]4N(c5c(cc([N+](=O)[O-])cc5)C[C@@H]4C(O)=O)C3)C2)=CC=C1
@@ -1051,9 +1051,9 @@ M  END
 X6857_6335666
 
 >  <class>  (13) 
-4
+5
 
 >  <isCentroid>  (13) 
-flase
+true
 
 $$$$
