@@ -1,6 +1,6 @@
 # clusfps
 clusfps is just a script that I wrote on the top of RDKit (2015_03_1) to do compound structure clustering.
-The tools is under the terms of the  WTFPL(Do What the Fuck You Want to Public License).
+This script is under the terms of the  WTFPL(Do What the Fuck You Want to Public License).
 
 
 RDKit
