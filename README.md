@@ -23,7 +23,7 @@ Detail installation guild can be found at [RDKit install guild](https://github.c
 
 clusfps clustering process
 ---------
-Two steps are included in clusfps: fingerprint generation and cluster calculation. Three type of fingerprint can be calculated:  Topological Fingerprints, MACCS Keys and Morgan Fingerprints. Morgan Fingerprints generation needs users to define radius through command-line. Cluster algorithm include Butina and Murtagh. When using Butina, a cutoff is needed , which is defined as the most number of compounds a cluster can have. When using Murtagh, the number of clusters should be pre-defined. Example can be found at [Example](https://github.com/kaiwang0112006/clusfps/blob/master/example/example.txt)
+Two steps are included in clusfps: fingerprint generation and cluster calculation. Three type of fingerprint can be calculated:  Topological Fingerprints, MACCS Keys and Morgan Fingerprints. Morgan Fingerprints generation needs users to define radius through command-line. Cluster algorithm include Butina and Murtagh. When using Butina, a cutoff is needed , which means elements within this range of each other are considered to be neighbors. When using Murtagh, the number of clusters should be pre-defined. Example can be found at [Example](https://github.com/kaiwang0112006/clusfps/blob/master/example/example.txt)
 
 <p align="center">
   <img src="https://github.com/kaiwang0112006/clusfps/blob/master/guild.png?raw=true" alt="clusfps Architecture"/>
