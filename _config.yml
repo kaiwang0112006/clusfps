@@ -1,0 +1,8 @@
+title: Clusfps
+description: A Molecular cluster tools built on RDKit
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
